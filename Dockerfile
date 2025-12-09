@@ -21,6 +21,7 @@ RUN apt-get update && apt-get install -y \
     pdo \
     pdo_mysql \
     intl \
+    mysqli \
     opcache \
     zip \
     gd
